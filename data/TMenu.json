@@ -1,0 +1,220 @@
+﻿{"items": 
+[
+	{
+		"title": "Tabelas",
+		"iconCls": "folder_user",
+		"id": "1",
+		"leaf" : "true",
+		"hidden" : "false",
+		"items": [
+			{
+				"text": "Bairro",
+				"iconCls": "user_orange",
+				"menu_id": "1",
+				"id": "11",
+				"leaf" : "true",
+				"hidden" : "true",
+				"mypanel": "bairro"
+			},
+			{
+				"text": "Cliente",
+				"iconCls": "user_green",
+				"menu_id": "1",
+				"id": "13",
+				"leaf" : "true",
+				"hidden" : "false",
+				"mypanel": "bairro"
+			},
+			{
+				"text": "Produto",
+				"iconCls": "user_female",
+				"menu_id": "1",
+				"id": "12",
+				"leaf" : "true",
+				"hidden" : "false",
+				"mypanel": "produto"
+			},
+			{
+				"text": "menu 1.4",
+				"iconCls": "user_orange",
+				"menu_id": "1",
+				"id": "14",
+				"leaf" : "true",
+				"hidden" : "false",
+				"mypanel": "produto"
+			},
+			{
+				"text": "menu 1.5",
+				"iconCls": "user_red",
+				"menu_id": "1",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "15"
+			},
+			{
+				"text": "menu 1.6",
+				"iconCls": "user_suit",
+				"menu_id": "1",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "16"
+			},
+			{
+				"text": "menu 1.7",
+				"iconCls": "user",
+				"menu_id": "1",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "17"
+			}
+		]
+	},
+	{
+		"title": "Menu 2",
+		"iconCls": "computer",
+		"id": "2",
+		"leaf" : "true",
+		"hidden" : "false",
+		"items": [
+			{
+				"text": "menu 2.1",
+				"iconCls": "chart_bar",
+				"menu_id": "2",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "21"
+			},
+			{
+				"text": "menu 2.2",
+				"iconCls": "chart_curve",
+				"menu_id": "2",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "22"
+			},
+			{
+				"text": "menu 2.3",
+				"iconCls": "chart_org",
+				"menu_id": "2",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "23"
+			},
+			{
+				"text": "menu 2.4",
+				"iconCls": "chart_pie",
+				"menu_id": "2",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "24"
+			}			
+		]
+	},
+	{
+		"title": "Menu 3",
+		"iconCls": "table",
+		"id": "3",
+		"leaf" : "true",
+		"hidden" : "false",
+		"items": [
+			{
+				"text": "menu 3.1",
+				"iconCls": "tag_blue",
+				"menu_id": "3",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "31"
+			},
+			{
+				"text": "menu 3.2",
+				"iconCls": "tag_green",
+				"menu_id": "3",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "32"
+			},
+			{
+				"text": "menu 3.3",
+				"iconCls": "tag_orange",
+				"menu_id": "3",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "33"
+			},
+			{
+				"text": "menu 3.4",
+				"iconCls": "tag_pink",
+				"menu_id": "3",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "34"
+			},
+			{
+				"text": "menu 3.5",
+				"iconCls": "tag_purple",
+				"menu_id": "3",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "35"
+			},
+			{
+				"text": "menu 3.6",
+				"iconCls": "tag_red",
+				"menu_id": "3",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "36"
+			},
+			{
+				"text": "menu 3.7",
+				"iconCls": "tag_yellow",
+				"menu_id": "3",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "37"
+			}
+		]
+	},
+	{
+		"title": "Menu 4",
+		"iconCls": "money",
+		"id": "4",
+		"leaf" : "true",
+		"hidden" : "false",
+		"items": [
+			{
+				"text": "menu 4.1",
+				"iconCls": "money_dollar",
+				"menu_id": "4",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "41"
+			},
+			{
+				"text": "menu 4.2",
+				"iconCls": "money_euro",
+				"menu_id": "4",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "42"
+			},
+			{
+				"text": "menu 4.3",
+				"iconCls": "money_pound",
+				"menu_id": "4",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "43"
+			},
+			{
+				"text": "menu 4.4",
+				"iconCls": "money_yen",
+				"menu_id": "4",
+				"leaf" : "true",
+				"hidden" : "false",
+				"id": "44"
+			}			
+		]
+	}	
+]
+}
